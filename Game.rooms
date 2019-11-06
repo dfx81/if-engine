@@ -1,0 +1,29 @@
+0
+3
+
+0
+--Starting Room--
+There's two path in front of you.
+One goes left while the other go to the right.
+//
+0
+2
+left right
+1 2
+
+1
+--Left Room--
+You triggered a trap when entering the
+room. You died horribly.
+//
+0
+0
+-1
+
+2
+--Right Room--
+The path leads outside! Congratulations!
+//
+0
+0
+-1
